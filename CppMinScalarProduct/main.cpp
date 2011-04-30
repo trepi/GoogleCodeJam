@@ -13,7 +13,6 @@
 using namespace std;
 
 void testcase(short index);
-int scalarproduct(int v1 [], int v2 [], int size);
 /*
  * 
  */
